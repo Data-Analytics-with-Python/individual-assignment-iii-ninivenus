@@ -1,0 +1,3 @@
+
+Question 1: X only drops MntWines; other spending variables (e.g., MntFruits, MntMeatProducts, etc.) are still included, which should be excluded as per instructions:-4
+Total: 96/100
